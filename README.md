@@ -1,4 +1,4 @@
-# Postfix_Calculator
+# PostfixCalculator
 
 This is a Postfix Calculator designed using Python 3.6.
 
